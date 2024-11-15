@@ -1,0 +1,5 @@
+to rebuild, delete egg dir and pycashe dir, and in terminal, run
+
+pip install -e .
+
+From root dir (wrt to package dir)

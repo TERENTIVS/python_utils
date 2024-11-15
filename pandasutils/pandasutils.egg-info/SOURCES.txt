@@ -1,0 +1,5 @@
+setup.py
+pandasutils.egg-info/PKG-INFO
+pandasutils.egg-info/SOURCES.txt
+pandasutils.egg-info/dependency_links.txt
+pandasutils.egg-info/top_level.txt

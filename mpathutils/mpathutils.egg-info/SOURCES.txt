@@ -1,0 +1,5 @@
+setup.py
+mpathutils.egg-info/PKG-INFO
+mpathutils.egg-info/SOURCES.txt
+mpathutils.egg-info/dependency_links.txt
+mpathutils.egg-info/top_level.txt
